@@ -1,4 +1,4 @@
-<h1>Projeto Desafio Jokenpowx</h1>
+<h1>Projeto Desafio Jokenpow</h1>
 <br>
 <h2>Linguagens utilizadas:</h2>
 <lo>
