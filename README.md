@@ -7,5 +7,5 @@
   <li>JavaScript: Implementamos JavaScript para adicionar interatividade e funcionalidades dinâmicas.</li>
 </lo>
 <br>
-<img src="/>
+<img src="https://github.com/Josetelma/Projeto-Desafio-Jokenpow/blob/main/assets/images/Jokenpow2.PNG?raw=true"/>
 <img src="/>
