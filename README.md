@@ -8,4 +8,4 @@
 </lo>
 <br>
 <img src="https://github.com/Josetelma/Projeto-Desafio-Jokenpow/blob/main/assets/images/Jokenpow2.PNG?raw=true"/>
-<img src="/>
+<img src="https://github.com/Josetelma/Projeto-Desafio-Jokenpow/blob/main/assets/images/Jokenpow.PNG?raw=true"/>
