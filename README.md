@@ -1,4 +1,5 @@
 <h1>Projeto Desafio Jokenpow</h1>
+<p>Este projeto foi uma valiosa experiência que adquiri dentro do Dev Club.</p>
 <br>
 <h2>Linguagens utilizadas:</h2>
 <lo>
